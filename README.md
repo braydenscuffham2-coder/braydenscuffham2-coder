@@ -17,7 +17,7 @@ I'm a design engineer. I take AI products from the first flow to production on m
 
 ## Pip
 
-<a href="https://pip-ai-drab.vercel.app"><img src="assets/pip-upgrades.webp" alt="Pip's upgrades step for an example HVAC company. Pip, a small glass character, says it ranked the upgrades and added its top two picks. Six cards show match scores from 97% to 74%, and each pick has an evidence line such as '9 reviews mention slow callbacks'." width="100%"></a>
+<a href="https://github.com/braydenscuffham2-coder/pip-ai/tree/main/claude-app"><img src="assets/pip-home.webp" alt="Pip's home screen in the Claude app: a 3D glass character next to the headline 'Meet the upside of being understood.' and a website field." width="100%"></a>
 
 - Pip reads a business's homepage and up to 5 key pages, detects about 60 known chat, booking and review tools, and pulls in its Google reviews and nearby competitors. Claude structures what it found.
 - The owner gets a coverage score and upgrades ranked by match %, each with the evidence behind it. Built with Next.js 16, React 19, TypeScript, Supabase, the Claude API and ElevenLabs.
