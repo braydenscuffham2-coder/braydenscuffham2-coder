@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
+- [Add owner sign-in links and a Promptfoo red team to the Forge](https://github.com/braydenscuffham2-coder/pip-ai/commit/a47648787993a034ebb55225a0f3c80898a46cf5) · `pip-ai` · Nov 13
+- [Move Lock it in to Pip's own site and connect it to the Forge](https://github.com/braydenscuffham2-coder/pip-ai/commit/6b988fe53063f01b9e7094c86ab69da3dfcd3c89) · `pip-ai` · Nov 13
 - [Copy the readable modules out of the Claude-app build](https://github.com/braydenscuffham2-coder/pip-ai/commit/5ce55fe6056204f0c6ba6b40d06b104d6872d98d) · `pip-ai` · Nov 12
 - [Add the Claude-app build of Pip](https://github.com/braydenscuffham2-coder/pip-ai/commit/942f66aa8e926a928a248214c3b1ccba56836a0d) · `pip-ai` · Nov 12
 - [Type-check and build on every push](https://github.com/braydenscuffham2-coder/pip-ai/commit/aa49da457ceab57f32b1016b0dcd04800548bf72) · `pip-ai` · Nov 12
-- [Replace the Brand Name placeholder with Pip](https://github.com/braydenscuffham2-coder/pip-ai/commit/fb086c2db3a7594aae768c7c7723a4d7b7349f7e) · `pip-ai` · Nov 12
-- [Keep env files and build output out of Vercel uploads](https://github.com/braydenscuffham2-coder/pip-ai/commit/92143948f8989c658d201a6a589e3617f7c74a45) · `pip-ai` · Nov 12
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
