@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
-- [Add owner sign-in links and a Promptfoo red team to the Forge](https://github.com/braydenscuffham2-coder/pip-ai/commit/a47648787993a034ebb55225a0f3c80898a46cf5) · `pip-ai` · Nov 13
-- [Move Lock it in to Pip's own site and connect it to the Forge](https://github.com/braydenscuffham2-coder/pip-ai/commit/6b988fe53063f01b9e7094c86ab69da3dfcd3c89) · `pip-ai` · Nov 13
-- [Copy the readable modules out of the Claude-app build](https://github.com/braydenscuffham2-coder/pip-ai/commit/5ce55fe6056204f0c6ba6b40d06b104d6872d98d) · `pip-ai` · Nov 12
-- [Add the Claude-app build of Pip](https://github.com/braydenscuffham2-coder/pip-ai/commit/942f66aa8e926a928a248214c3b1ccba56836a0d) · `pip-ai` · Nov 12
-- [Type-check and build on every push](https://github.com/braydenscuffham2-coder/pip-ai/commit/aa49da457ceab57f32b1016b0dcd04800548bf72) · `pip-ai` · Nov 12
+- [Add a readiness check and refusal logs to /api/sample](https://github.com/braydenscuffham2-coder/pip-ai/commit/e9c5ccbd5f477334a3a2666a845d0016912e496b) · `pip-ai` · Nov 15
+- [Serve the Claude-app Pip page as the website's home page](https://github.com/braydenscuffham2-coder/pip-ai/commit/4aff2c2cbb2434f5cc26c9c5020663357ad4313c) · `pip-ai` · Nov 15
+- [Add the email gate's pass and an invisible bot check (#2)](https://github.com/braydenscuffham2-coder/pip-ai/commit/6039a6ce100b028e101c6974fdc9121d6024a7de) · `pip-ai` · Nov 14
+- [Add a spend guard so strangers can't run up the API bills (#1)](https://github.com/braydenscuffham2-coder/pip-ai/commit/4833b7c04560cd4b35b4ffae47db348b7902ff7f) · `pip-ai` · Nov 14
+- [Add Google Analytics 4 to Pip](https://github.com/braydenscuffham2-coder/pip-ai/commit/a1f32fd501f8a9aad649e17a52821fa528aa05b1) · `pip-ai` · Nov 14
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
