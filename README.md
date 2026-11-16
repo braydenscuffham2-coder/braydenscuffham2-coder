@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
+- [Add a link preview image and Open Graph tags to the home page](https://github.com/braydenscuffham2-coder/pip-ai/commit/88a1a23de4a7f044d425f8c8eb78f75ec27539c9) · `pip-ai` · Nov 16
+- [Portal: founder step controls, consent tools, cancel-and-delete, supervisor and runtime hooks](https://github.com/braydenscuffham2-coder/pip-ai/commit/49a2bdd1fcdc1530d1f07acaa6988f4f159a0d21) · `pip-ai` · Nov 16
+- [Portal: drop stray empty nodes and show teammate names on setup steps](https://github.com/braydenscuffham2-coder/pip-ai/commit/d0e2623958aff8111a96a0c90bfb4e46ced102a8) · `pip-ai` · Nov 15
+- [Add the Pip Portal page and require an email at Lock it in](https://github.com/braydenscuffham2-coder/pip-ai/commit/e66525878c1b1c6c99b435aeeb2a49180838ca34) · `pip-ai` · Nov 15
 - [Add a readiness check and refusal logs to /api/sample](https://github.com/braydenscuffham2-coder/pip-ai/commit/e9c5ccbd5f477334a3a2666a845d0016912e496b) · `pip-ai` · Nov 15
-- [Serve the Claude-app Pip page as the website's home page](https://github.com/braydenscuffham2-coder/pip-ai/commit/4aff2c2cbb2434f5cc26c9c5020663357ad4313c) · `pip-ai` · Nov 15
-- [Add the email gate's pass and an invisible bot check (#2)](https://github.com/braydenscuffham2-coder/pip-ai/commit/6039a6ce100b028e101c6974fdc9121d6024a7de) · `pip-ai` · Nov 14
-- [Add a spend guard so strangers can't run up the API bills (#1)](https://github.com/braydenscuffham2-coder/pip-ai/commit/4833b7c04560cd4b35b4ffae47db348b7902ff7f) · `pip-ai` · Nov 14
-- [Add Google Analytics 4 to Pip](https://github.com/braydenscuffham2-coder/pip-ai/commit/a1f32fd501f8a9aad649e17a52821fa528aa05b1) · `pip-ai` · Nov 14
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
