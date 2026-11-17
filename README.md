@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
-- [Add a link preview image and Open Graph tags to the home page](https://github.com/braydenscuffham2-coder/pip-ai/commit/88a1a23de4a7f044d425f8c8eb78f75ec27539c9) · `pip-ai` · Nov 16
-- [Portal: founder step controls, consent tools, cancel-and-delete, supervisor and runtime hooks](https://github.com/braydenscuffham2-coder/pip-ai/commit/49a2bdd1fcdc1530d1f07acaa6988f4f159a0d21) · `pip-ai` · Nov 16
-- [Portal: drop stray empty nodes and show teammate names on setup steps](https://github.com/braydenscuffham2-coder/pip-ai/commit/d0e2623958aff8111a96a0c90bfb4e46ced102a8) · `pip-ai` · Nov 15
-- [Add the Pip Portal page and require an email at Lock it in](https://github.com/braydenscuffham2-coder/pip-ai/commit/e66525878c1b1c6c99b435aeeb2a49180838ca34) · `pip-ai` · Nov 15
-- [Add a readiness check and refusal logs to /api/sample](https://github.com/braydenscuffham2-coder/pip-ai/commit/e9c5ccbd5f477334a3a2666a845d0016912e496b) · `pip-ai` · Nov 15
+- [Test harness: follow pip-turn's imports from _shared; also run .test.mjs beside functions](https://github.com/braydenscuffham2-coder/pip-ai/commit/783fd1583b77bdbbcd1184437c7bad152b8c9d23) · `pip-ai` · Nov 17
+- [Lane 02 texts: a TEST business's line can be answered; never silence when pip-turn is down](https://github.com/braydenscuffham2-coder/pip-ai/commit/aebbc585c8f443f1d05731b25291ba7e301d9e7b) · `pip-ai` · Nov 17
+- [For 01 core: Pip sets the sender on Gmail sends, so the send-only permission works](https://github.com/braydenscuffham2-coder/pip-ai/commit/b1656c705113fcf77cf1d8250c8cca1ecba4a8be) · `pip-ai` · Nov 17
+- [Lane 02 voice: pip-voice, phone calls with pip-turn as the brain](https://github.com/braydenscuffham2-coder/pip-ai/commit/02494ce867b809aa7344220740c744306d4736b0) · `pip-ai` · Nov 17
+- [Run each lane's own function tests in the same check](https://github.com/braydenscuffham2-coder/pip-ai/commit/d2d6b6470f96854631750ddfc844ada5cbe70402) · `pip-ai` · Nov 17
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
