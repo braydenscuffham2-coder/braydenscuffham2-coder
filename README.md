@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
-- [Test harness: follow pip-turn's imports from _shared; also run .test.mjs beside functions](https://github.com/braydenscuffham2-coder/pip-ai/commit/783fd1583b77bdbbcd1184437c7bad152b8c9d23) · `pip-ai` · Nov 17
-- [Lane 02 texts: a TEST business's line can be answered; never silence when pip-turn is down](https://github.com/braydenscuffham2-coder/pip-ai/commit/aebbc585c8f443f1d05731b25291ba7e301d9e7b) · `pip-ai` · Nov 17
-- [For 01 core: Pip sets the sender on Gmail sends, so the send-only permission works](https://github.com/braydenscuffham2-coder/pip-ai/commit/b1656c705113fcf77cf1d8250c8cca1ecba4a8be) · `pip-ai` · Nov 17
-- [Lane 02 voice: pip-voice, phone calls with pip-turn as the brain](https://github.com/braydenscuffham2-coder/pip-ai/commit/02494ce867b809aa7344220740c744306d4736b0) · `pip-ai` · Nov 17
-- [Run each lane's own function tests in the same check](https://github.com/braydenscuffham2-coder/pip-ai/commit/d2d6b6470f96854631750ddfc844ada5cbe70402) · `pip-ai` · Nov 17
+- [Clear the scheduler's run history weekly, keeping two weeks](https://github.com/braydenscuffham2-coder/pip-ai/commit/dff1da538d03e421c5c56a5556d683d189bc5a12) · `pip-ai` · Nov 18
+- [Lane 01: buying opens seeing and placing an order, never changing one](https://github.com/braydenscuffham2-coder/pip-ai/commit/d0628ca03fcaaab9db419039327c747aeb273a25) · `pip-ai` · Nov 18
+- [Portal pass: one word for teammates, no 'usual wait' on connected steps, half-finished sign-ins open by themselves, no sideways scroll on phones](https://github.com/braydenscuffham2-coder/pip-ai/commit/603081adbba203f39009a996bbf21d2dc027d65a) · `pip-ai` · Nov 18
+- [Lane 01: job runner fixes (guard review of #36)](https://github.com/braydenscuffham2-coder/pip-ai/commit/14fead6b5653de22ca6dee6e5f62c57392063e23) · `pip-ai` · Nov 18
+- [Lane 01: tighten the teammate contract (guard review of #29)](https://github.com/braydenscuffham2-coder/pip-ai/commit/a8aa6bdf3bade71a6faa67c8102016bc037c3a05) · `pip-ai` · Nov 18
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
