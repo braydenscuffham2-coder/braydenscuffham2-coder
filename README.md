@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
+- [Lane 05: the teammate contract on every build](https://github.com/braydenscuffham2-coder/pip-ai/commit/22aac3ea424dc20e8ddd8710dcb6fcb141da633b) · `pip-ai` · Nov 18
+- [Sign-in return route on hirepip.com, so Google's screen and review are Pip's](https://github.com/braydenscuffham2-coder/pip-ai/commit/d6c569a4d69cd3eacf7fe5428b987a363280385d) · `pip-ai` · Nov 18
 - [Clear the scheduler's run history weekly, keeping two weeks](https://github.com/braydenscuffham2-coder/pip-ai/commit/dff1da538d03e421c5c56a5556d683d189bc5a12) · `pip-ai` · Nov 18
 - [Lane 01: buying opens seeing and placing an order, never changing one](https://github.com/braydenscuffham2-coder/pip-ai/commit/d0628ca03fcaaab9db419039327c747aeb273a25) · `pip-ai` · Nov 18
 - [Portal pass: one word for teammates, no 'usual wait' on connected steps, half-finished sign-ins open by themselves, no sideways scroll on phones](https://github.com/braydenscuffham2-coder/pip-ai/commit/603081adbba203f39009a996bbf21d2dc027d65a) · `pip-ai` · Nov 18
-- [Lane 01: job runner fixes (guard review of #36)](https://github.com/braydenscuffham2-coder/pip-ai/commit/14fead6b5653de22ca6dee6e5f62c57392063e23) · `pip-ai` · Nov 18
-- [Lane 01: tighten the teammate contract (guard review of #29)](https://github.com/braydenscuffham2-coder/pip-ai/commit/a8aa6bdf3bade71a6faa67c8102016bc037c3a05) · `pip-ai` · Nov 18
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
