@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
-- [Lane 05: the teammate contract on every build](https://github.com/braydenscuffham2-coder/pip-ai/commit/22aac3ea424dc20e8ddd8710dcb6fcb141da633b) · `pip-ai` · Nov 18
-- [Sign-in return route on hirepip.com, so Google's screen and review are Pip's](https://github.com/braydenscuffham2-coder/pip-ai/commit/d6c569a4d69cd3eacf7fe5428b987a363280385d) · `pip-ai` · Nov 18
-- [Clear the scheduler's run history weekly, keeping two weeks](https://github.com/braydenscuffham2-coder/pip-ai/commit/dff1da538d03e421c5c56a5556d683d189bc5a12) · `pip-ai` · Nov 18
-- [Lane 01: buying opens seeing and placing an order, never changing one](https://github.com/braydenscuffham2-coder/pip-ai/commit/d0628ca03fcaaab9db419039327c747aeb273a25) · `pip-ai` · Nov 18
-- [Portal pass: one word for teammates, no 'usual wait' on connected steps, half-finished sign-ins open by themselves, no sideways scroll on phones](https://github.com/braydenscuffham2-coder/pip-ai/commit/603081adbba203f39009a996bbf21d2dc027d65a) · `pip-ai` · Nov 18
+- [Billing stops when a business leaves](https://github.com/braydenscuffham2-coder/pip-ai/commit/4b010d580bcadb180ecb3538b7767ff8dc9a779f) · `pip-ai` · Nov 20
+- [Tell the founder when mail arrives in a Pip inbox](https://github.com/braydenscuffham2-coder/pip-ai/commit/ba195c69c801da350076a1b8c578a3989071c3d3) · `pip-ai` · Nov 20
+- [Portal: show what each teammate can and cannot do, built from its job list](https://github.com/braydenscuffham2-coder/pip-ai/commit/adbb4b4c1a06e08c86d82db1d62b83caee1b890b) · `pip-ai` · Nov 20
+- [Publish the Privacy Policy; delete conversations after 13 months](https://github.com/braydenscuffham2-coder/pip-ai/commit/b4ba42c1925a52a47834d0cf0bb476097761e144) · `pip-ai` · Nov 19
+- [A teammate with jobs and no chat instructions can do its jobs](https://github.com/braydenscuffham2-coder/pip-ai/commit/4f5cb68b47d85ea34fc4b5a64a5b91266bc71dad) · `pip-ai` · Nov 19
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
