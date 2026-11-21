@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
-- [Billing stops when a business leaves](https://github.com/braydenscuffham2-coder/pip-ai/commit/4b010d580bcadb180ecb3538b7767ff8dc9a779f) · `pip-ai` · Nov 20
-- [Tell the founder when mail arrives in a Pip inbox](https://github.com/braydenscuffham2-coder/pip-ai/commit/ba195c69c801da350076a1b8c578a3989071c3d3) · `pip-ai` · Nov 20
-- [Portal: show what each teammate can and cannot do, built from its job list](https://github.com/braydenscuffham2-coder/pip-ai/commit/adbb4b4c1a06e08c86d82db1d62b83caee1b890b) · `pip-ai` · Nov 20
-- [Publish the Privacy Policy; delete conversations after 13 months](https://github.com/braydenscuffham2-coder/pip-ai/commit/b4ba42c1925a52a47834d0cf0bb476097761e144) · `pip-ai` · Nov 19
-- [A teammate with jobs and no chat instructions can do its jobs](https://github.com/braydenscuffham2-coder/pip-ai/commit/4f5cb68b47d85ea34fc4b5a64a5b91266bc71dad) · `pip-ai` · Nov 19
+- [Your market redesign and Pip's blue across the home page](https://github.com/braydenscuffham2-coder/pip-ai/commit/96436a0ae4e1fdaf95b6650a2767b407638a4d42) · `pip-ai` · Nov 20
+- [Lane 05: tests that pin site-kit's ways in, its daily cap and its check code](https://github.com/braydenscuffham2-coder/pip-ai/commit/83c765772a48d4f6fc46531e285e94661c95bc14) · `pip-ai` · Nov 20
+- [Lane 05: site-kit as it is deployed (version 35), without its written-in check code](https://github.com/braydenscuffham2-coder/pip-ai/commit/9a31900165cf586cbf49156a40e447901a1488e8) · `pip-ai` · Nov 20
+- [Lane 05: a save with no result keeps the Board's stored work](https://github.com/braydenscuffham2-coder/pip-ai/commit/c1e85acddcd55db03ad9de9a12c16d6cd58f7b65) · `pip-ai` · Nov 20
+- [Lane 05: a test that pins pip-shelf's routes and who may call them](https://github.com/braydenscuffham2-coder/pip-ai/commit/6e6e5ca52d61931e69fb6b6583c250574e5017e1) · `pip-ai` · Nov 20
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
