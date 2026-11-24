@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
-- [Your market redesign and Pip's blue across the home page](https://github.com/braydenscuffham2-coder/pip-ai/commit/96436a0ae4e1fdaf95b6650a2767b407638a4d42) · `pip-ai` · Nov 20
-- [Lane 05: tests that pin site-kit's ways in, its daily cap and its check code](https://github.com/braydenscuffham2-coder/pip-ai/commit/83c765772a48d4f6fc46531e285e94661c95bc14) · `pip-ai` · Nov 20
-- [Lane 05: site-kit as it is deployed (version 35), without its written-in check code](https://github.com/braydenscuffham2-coder/pip-ai/commit/9a31900165cf586cbf49156a40e447901a1488e8) · `pip-ai` · Nov 20
-- [Lane 05: a save with no result keeps the Board's stored work](https://github.com/braydenscuffham2-coder/pip-ai/commit/c1e85acddcd55db03ad9de9a12c16d6cd58f7b65) · `pip-ai` · Nov 20
-- [Lane 05: a test that pins pip-shelf's routes and who may call them](https://github.com/braydenscuffham2-coder/pip-ai/commit/6e6e5ca52d61931e69fb6b6583c250574e5017e1) · `pip-ai` · Nov 20
+- [Portal: operator review screen, dark until the operator lane is on](https://github.com/braydenscuffham2-coder/pip-ai/commit/ef4de1d0f9a9ed242aa29c40319f844687b33a76) · `pip-ai` · Nov 23
+- [pip-voice test: 'opens at once' checks the order, with a 900 ms ceiling](https://github.com/braydenscuffham2-coder/pip-ai/commit/d32518fb7cd732f1ba0268579bd4f26954a54da8) · `pip-ai` · Nov 23
+- [Forge test bench: grade what a reply did, not its wording](https://github.com/braydenscuffham2-coder/pip-ai/commit/c9b651cfb35821f1a8bbc9ad20d5b14837715f65) · `pip-ai` · Nov 23
+- [Market step: stop asking for an image at /object Object](https://github.com/braydenscuffham2-coder/pip-ai/commit/e666852d803723c9687d24264383f6ce5451e2a8) · `pip-ai` · Nov 23
+- [Security sweep: keep the outbound_sent record kind, and stop redacting ZIP codes and customer account numbers](https://github.com/braydenscuffham2-coder/pip-ai/commit/185ac8fbef30293fe6d2a2a27c9cd4213ce392fd) · `pip-ai` · Nov 23
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
