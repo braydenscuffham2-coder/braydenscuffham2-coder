@@ -39,11 +39,11 @@
 **Recently shipped**
 
 <!-- recent:start -->
-- [Portal: operator review screen, dark until the operator lane is on](https://github.com/braydenscuffham2-coder/pip-ai/commit/ef4de1d0f9a9ed242aa29c40319f844687b33a76) · `pip-ai` · Nov 23
-- [pip-voice test: 'opens at once' checks the order, with a 900 ms ceiling](https://github.com/braydenscuffham2-coder/pip-ai/commit/d32518fb7cd732f1ba0268579bd4f26954a54da8) · `pip-ai` · Nov 23
-- [Forge test bench: grade what a reply did, not its wording](https://github.com/braydenscuffham2-coder/pip-ai/commit/c9b651cfb35821f1a8bbc9ad20d5b14837715f65) · `pip-ai` · Nov 23
-- [Market step: stop asking for an image at /object Object](https://github.com/braydenscuffham2-coder/pip-ai/commit/e666852d803723c9687d24264383f6ce5451e2a8) · `pip-ai` · Nov 23
-- [Security sweep: keep the outbound_sent record kind, and stop redacting ZIP codes and customer account numbers](https://github.com/braydenscuffham2-coder/pip-ai/commit/185ac8fbef30293fe6d2a2a27c9cd4213ce392fd) · `pip-ai` · Nov 23
+- [Outlook's calendar tools get the same limits Google's have](https://github.com/braydenscuffham2-coder/pip-ai/commit/840d1be25edabc467be252c02ff1cddad7b119e6) · `pip-ai` · Nov 27
+- [After a phone call the owner gets a short note](https://github.com/braydenscuffham2-coder/pip-ai/commit/7e3f9ca391e07b5839ba8024e0866aeb8c6480de) · `pip-ai` · Nov 27
+- [Messages from the team reach the owner](https://github.com/braydenscuffham2-coder/pip-ai/commit/5138c5f3f70095585edc85c14ac12afe17fab525) · `pip-ai` · Nov 27
+- [A call turn wastes no time before it thinks; failure lines promise nothing false](https://github.com/braydenscuffham2-coder/pip-ai/commit/410ec9f39bd7ae8d58f6209dcf0a6fedfa58d400) · `pip-ai` · Nov 27
+- [A phone reply is whole: no thinking first on a call, never cut mid-sentence](https://github.com/braydenscuffham2-coder/pip-ai/commit/387fabfceda255b20be093ed1918ff8e9f96f4f0) · `pip-ai` · Nov 27
 <!-- recent:end -->
 
 <sub>Updated daily from my public commits by a GitHub Action in this repo.</sub>
